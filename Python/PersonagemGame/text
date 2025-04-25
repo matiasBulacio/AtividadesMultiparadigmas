@@ -1,0 +1,12 @@
+"""
+    Defina uma classe PersonagemGame que:
+        - possua atributos (ao menos 4)
+        - metodos  (ao menos 2)
+        * OPCIONAIS: estrutra de dados / Inventário
+        
+    Instancie duas Variantes com valores diferentes
+    
+    imprima os dados
+    
+    ** ENTREGAR NO CODESPACES / PYTHON (individual)
+"""

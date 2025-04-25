@@ -1,0 +1,37 @@
+1) Faça um programa de Empréstimo de Livros utilizando o paradigma Estruturado na
+linguagem C.
+
+a) Requisitos mínimos
+>> Crie funções para separação clara de responsabilidades
+
+>> Crie uma struct Livro (
+autor[ ],
+título[ ],
+int total_emprestimos, // máximo 3
+enum StatusLivro )
+
+>> Utilize ponteiros para um controle adequado das propriedades do Livro
+
+>> A propriedade status deverá ser determinada a partir de um enum que contém as
+opções ( DISPONIVEL, EMPRESTADO )
+
+>> Função para empréstimo
+
+>> Função para devolução
+
+>> Crie funções para formatar a impressão do resultado das operações
+
+b) Requisitos opcionais
+>> Utilize um cabeçalho para ocultar informações extras como ENUM, FUNÇÕES ou
+outras definições do programa e importe-o no programa principal (adicionar como diretiva
+na hora de compilar )
+
+>> Utilize macros com #define para utilizar valores padrão, caso necessário
+
+>> Crie funcionalidades extras (Bônus)
+
+Critérios de avaliação (via repositório):
+- Qualidade de código (funcionar como previsto, indentação, nomes claros e
+coerentes com a proposta - variáveis, funções, etc.)
+
+- Capricho, originalidade, organização, extras.
